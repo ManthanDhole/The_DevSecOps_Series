@@ -15,5 +15,4 @@ In this series, we'll be learning about DevSecOps Concepts and Methodology which
 6. [CVE, CWE, CVSS, EPSS](https://youtu.be/Hl1Dxy0QKGs?si=3_Jf_ex6rDGDxxXG) <br>
 
 ### DevSecOps Interview Questions 
-<br>
 1. [DevSecOps Interview Questions (Part 1): CVE, CWE, CVSS, EPSS](https://youtu.be/Q1xzibxUcKQ?si=ypwO97UyF399F_IE) <br>
