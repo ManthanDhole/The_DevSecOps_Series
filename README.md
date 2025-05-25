@@ -3,6 +3,7 @@ In this series, we'll be learning about DevSecOps Concepts and Methodology which
 
 ### Links to the YouTube videos
 [My YouTube Channel](https://www.youtube.com/@manthan_dhole) <br>
+[The AWS Series](https://www.youtube.com/playlist?list=PLrhqqWtUP2FHYy6pEnBxzK5g_iLvcgYb0) <br>
 [DevOps Playlist](https://www.youtube.com/playlist?list=PLrhqqWtUP2FER6mDz-GKHOQKYbuGMC_a8) <br>
 [AWS Community Day Vlog](https://youtu.be/zIv7xX8MWtc?si=nH6Jm89ZGODzWyqe) <br>
 
