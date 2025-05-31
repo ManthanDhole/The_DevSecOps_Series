@@ -7,11 +7,6 @@ In this series, we'll be learning about DevSecOps Concepts and Methodology which
 [DevOps Playlist](https://www.youtube.com/playlist?list=PLrhqqWtUP2FER6mDz-GKHOQKYbuGMC_a8) <br>
 [AWS Community Day Vlog](https://youtu.be/zIv7xX8MWtc?si=nH6Jm89ZGODzWyqe) <br>
 
-### Link to Hands On Practice Projects and Implementing Security Tools in SDLC
-Redirect to the Project Group: [Click Here](https://github.com/ManthanDhole/The_DevSecOps_Series_HandsOn_Practice_Projects) <br>
-
-1. [SAST with SonarQube](https://github.com/ManthanDhole/The_DevSecOps_Series_HandsOn_Practice_Projects/tree/main/SAST/vulnerable-application)
-
 ### Access the DevSecOps Playlist 
 [DevSecOps Playlist](https://www.youtube.com/playlist?list=PLrhqqWtUP2FHITAa1f_wUQvqjAW-ikima) <br>
 1. [Contents](https://youtu.be/sKEKn-iY2aw?si=U60wod7qN-2uJ1U6) <br>
@@ -27,5 +22,12 @@ Redirect to the Project Group: [Click Here](https://github.com/ManthanDhole/The_
 10. [SCA](https://youtu.be/Fidr7EYXsDc) <br>
 10. [SAST with SonarQube](https://youtu.be/FuJCR9vyV8M) <br>
 
+### Link to Hands On Practice Projects and Implementing Security Tools in SDLC
+Redirect to the Project Group: [Click Here](https://github.com/ManthanDhole/The_DevSecOps_Series_HandsOn_Practice_Projects) <br>
+
+1. [SAST with SonarQube](https://github.com/ManthanDhole/The_DevSecOps_Series_HandsOn_Practice_Projects/tree/main/SAST/vulnerable-application)
+
 ### DevSecOps Interview Questions 
 1. [DevSecOps Interview Questions (Part 1): CVE, CWE, CVSS, EPSS](https://youtu.be/Q1xzibxUcKQ?si=ypwO97UyF399F_IE) <br>
+
+
