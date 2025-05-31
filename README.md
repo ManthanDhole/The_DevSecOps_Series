@@ -7,6 +7,11 @@ In this series, we'll be learning about DevSecOps Concepts and Methodology which
 [DevOps Playlist](https://www.youtube.com/playlist?list=PLrhqqWtUP2FER6mDz-GKHOQKYbuGMC_a8) <br>
 [AWS Community Day Vlog](https://youtu.be/zIv7xX8MWtc?si=nH6Jm89ZGODzWyqe) <br>
 
+### Link to Hands On Practice Projects and Implementing Security Tools in SDLC
+Redirect to the Project Group: [Click Here](https://github.com/ManthanDhole/The_DevSecOps_Series_HandsOn_Practice_Projects) <br>
+
+1. [SAST with SonarQube](https://github.com/ManthanDhole/The_DevSecOps_Series_HandsOn_Practice_Projects/tree/main/SAST/vulnerable-application)
+
 ### Access the DevSecOps Playlist 
 [DevSecOps Playlist](https://www.youtube.com/playlist?list=PLrhqqWtUP2FHITAa1f_wUQvqjAW-ikima) <br>
 1. [Contents](https://youtu.be/sKEKn-iY2aw?si=U60wod7qN-2uJ1U6) <br>
@@ -19,6 +24,8 @@ In this series, we'll be learning about DevSecOps Concepts and Methodology which
 8. [Threat Modeling: (Part 2) What is STRIDE & DREAD](https://youtu.be/Hyne4lKqwrk?si=xa8IGh1MdenTybef) <br>
 9. [Threat Modeling: (Part 3) What is PASTA, TRIKE & OCTAVE and different Tools used for Threat Modeling](https://youtu.be/cV1Grvm1Q5I?si=qSoOyk-HH_U89hnO) <br>
 10. [SAST](https://youtu.be/916yJ3q0WOQ?si=M8v5xkzkf0jmzinQ) <br>
+10. [SCA](https://youtu.be/Fidr7EYXsDc) <br>
+10. [SAST with SonarQube](https://youtu.be/FuJCR9vyV8M) <br>
 
 ### DevSecOps Interview Questions 
 1. [DevSecOps Interview Questions (Part 1): CVE, CWE, CVSS, EPSS](https://youtu.be/Q1xzibxUcKQ?si=ypwO97UyF399F_IE) <br>
