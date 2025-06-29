@@ -19,8 +19,11 @@ In this series, we'll be learning about DevSecOps Concepts and Methodology which
 8. [Threat Modeling: (Part 2) What is STRIDE & DREAD](https://youtu.be/Hyne4lKqwrk?si=xa8IGh1MdenTybef) <br>
 9. [Threat Modeling: (Part 3) What is PASTA, TRIKE & OCTAVE and different Tools used for Threat Modeling](https://youtu.be/cV1Grvm1Q5I?si=qSoOyk-HH_U89hnO) <br>
 10. [SAST](https://youtu.be/916yJ3q0WOQ?si=M8v5xkzkf0jmzinQ) <br>
-10. [SCA](https://youtu.be/Fidr7EYXsDc) <br>
-10. [SAST with SonarQube](https://youtu.be/FuJCR9vyV8M) <br>
+11. [SCA](https://youtu.be/Fidr7EYXsDc) <br>
+12. [SAST with SonarQube](https://youtu.be/FuJCR9vyV8M) <br>
+13. [SCA with OWASP Dependency Check Tool](https://youtu.be/7mim79ciHqs?si=bXB4g94WeRAVR5U8) <br>
+14. [GitHub Advanced Security (GHAS)](https://youtu.be/LO5u45ZUUU4?si=xzrEbQI0alvh_2dW) <br>
+15. [DAST](https://youtu.be/UViTmMtgkEg?si=DXQDWTT40prr0_3g) <br>
 
 ### Link to Hands On Practice Projects and Implementing Security Tools in SDLC
 Redirect to the Project Group: [Click Here](https://github.com/ManthanDhole/The_DevSecOps_Series_HandsOn_Practice_Projects) <br>
