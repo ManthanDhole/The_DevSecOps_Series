@@ -28,7 +28,9 @@ In this series, we'll be learning about DevSecOps Concepts and Methodology which
 ### Link to Hands On Practice Projects and Implementing Security Tools in SDLC
 Redirect to the Project Group: [Click Here](https://github.com/ManthanDhole/The_DevSecOps_Series_HandsOn_Practice_Projects) <br>
 
-1. [SAST with SonarQube](https://github.com/ManthanDhole/The_DevSecOps_Series_HandsOn_Practice_Projects/tree/main/SAST/vulnerable-application)
+1. [SAST with SonarQube](https://github.com/ManthanDhole/The_DevSecOps_Series_HandsOn_Practice_Projects/tree/main/SAST/vulnerable-application) <br>
+2. [SCA with OWASP Dependency Check](https://github.com/ManthanDhole/The_DevSecOps_Series_HandsOn_Practice_Projects/tree/main/SCA/vulnerable-application) <br>
+3. [Github Advanced Security (GHAS)](https://github.com/ManthanDhole/The_DevSecOps_Series_HandsOn_Practice_Projects/tree/main/GitHub%20Advanced%20Security) <br>
 
 ### DevSecOps Interview Questions 
 1. [DevSecOps Interview Questions (Part 1): CVE, CWE, CVSS, EPSS](https://youtu.be/Q1xzibxUcKQ?si=ypwO97UyF399F_IE) <br>
