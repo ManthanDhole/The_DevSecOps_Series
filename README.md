@@ -36,3 +36,16 @@ Redirect to the Project Group: [Click Here](https://github.com/ManthanDhole/The_
 1. [DevSecOps Interview Questions (Part 1): CVE, CWE, CVSS, EPSS](https://youtu.be/Q1xzibxUcKQ?si=ypwO97UyF399F_IE) <br>
 
 
+### Important Links
+1. [FIRST: Forum of Incident Response and Security Teams](https://www.first.org/)
+2. [CVE: Common Vulnerabilities and Exposures](https://www.cve.org/)
+3. [CWE: Common Weaknesses Enumerated](https://cwe.mitre.org/)
+4. [CVSS: Common Vulnerability Scoring System](https://www.first.org/cvss/) 
+5. [EPSS: Exploit Prediction Scoring System](https://www.first.org/epss/)
+6. [OWASP Top 10 Web Application Security Risks](https://owasp.org/www-project-top-ten/)
+7. [OWASP ASVS: Application Security Verification Standard](https://owasp.org/www-project-application-security-verification-standard/)
+8. [OWASP Cheat Sheet](https://cheatsheetseries.owasp.org/index.html)
+9. [OWASP GenAI Security Project](https://genai.owasp.org/)
+10. [OWASP MAS: Mobile Application Security](https://owasp.org/www-project-mobile-app-security/)
+11. [OWASP WSTG: Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
+12. [OWASP WSTG Framework Implementation Guide](https://github.com/OWASP/wstg/tree/master/document)
