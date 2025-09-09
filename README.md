@@ -54,3 +54,4 @@ Redirect to the Project Group: [Click Here](https://github.com/ManthanDhole/The_
 11. [OWASP WSTG: Web Security Testing Guide](https://owasp.org/www-project-web-security-testing-guide/)
 12. [OWASP WSTG Framework Implementation Guide](https://github.com/OWASP/wstg/tree/master/document)
 13. [KICS: Keep Infrastructure as Code Secure](https://docs.kics.io/latest/queries/all-queries/)
+14. [Verizon Data Breach Investigations Report](https://www.verizon.com/business/resources/reports/dbir/)
